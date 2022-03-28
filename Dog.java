@@ -1,3 +1,4 @@
+
 public class Dog extends Animal{
 	
 	public Cat(String name, int age){
